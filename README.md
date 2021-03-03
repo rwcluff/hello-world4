@@ -1,2 +1,4 @@
 # hello-world4
-Just another repository
+CSE 360 Hello World git demo
+
+Ryan Cluff
